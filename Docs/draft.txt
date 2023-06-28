@@ -1,0 +1,17 @@
+Job Board
+Game Demo Play through
+Junior Artist Showcase
+
+
+Job Board
+____________________________
+
+Sign Up
+Sign in
+
+Search
+    Job title
+    City
+    Search Button
+
+list jobs
